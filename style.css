@@ -13,7 +13,7 @@ h1,h2,h3,h4{
   color: #062d3c;
 }
 header{
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url(./img/1600944939php0YWR6t.png);
+    background: url(./img/1600944939php0YWR6t.png);
     /* background: url(/img/1600944939php0YWR6t.png); */
     width: 100vw;
     height: 100vh;
